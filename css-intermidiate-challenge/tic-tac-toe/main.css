@@ -1,0 +1,57 @@
+body{
+    margin: auto;
+    width: 30%
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+table{
+    margin: auto;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-color: black;
+    border-style: ridge;
+}
+
+#one{
+    border-width: 0 1px 1px 0;
+}
+
+#two{
+    border-width: 0px 1px 1px 1px;
+}
+
+#three{
+    border-width: 0px 0px 1px 1px;
+}
+
+#four{
+    border-width: 1px 1px 1px 0;
+}
+
+#five{
+    border-width: 1px 1px 1px 1px;
+}
+
+#six{
+    border-width: 1px 0px 1px 1px;
+}
+
+#seven{
+    border-width: 1px 1px 0 0;
+}
+
+#eight{
+    border-width: 1px 1px 0px 1px;
+}
+
+#nine{
+    border-width: 1px 0 0 1px;
+}
